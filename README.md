@@ -1,15 +1,22 @@
-# HomeLab-Draft
-My first attempt at documenting my home lab
-==============================================================
-My Proxmox virtual environment is hosted on a Dell Optiplex Elitedesk
+# HomeLab
 
-Currently there is a single Windows 2022 Server and a single Windows 11 client
+## Overview
+  Discription goes here
 
-The first Server present in the environment is DC01
+## Lab Enironment - Proxmox VE
+  VM100 Windows Server 2022 (WindowserServerDC01) [192.168.100.1] Hosts Active Directory, DNS, DHCP 
+  VM105 Windows Server 2022 (WebServer) [] Hosts IIS website
+  VM110 Windows 11 (WindowsClient01)
+  VM111 Windows 11 (WindowsClient02)
 
-==============================================================
-The current plan is to flesh out the network to imitate a full enterprise network
+## Infrastructre 
+  Hypervisor, networking and hardware
 
-Once the Domain is filled in with endpoints and servers I will simulate different attacks
+## Security Tools
+  SIEM, Logging....
 
-I will act as both red and blue team; launching attacks on the environment then viewing logs and using tools to enumerate the results of the attack and draft an investigation report
+## Network Diagram
+  Visuals
+
+## Documentation
+  Deeper setup
