@@ -6,3 +6,5 @@
   Default gateway : Blank for now, will configure when router/firewall gets configured
   DHCP scope configured
   ![Configured scope](../images/DHCP-scope.png)
+  Address Pool
+  ![Address pool](../images/Address-pool.png)
