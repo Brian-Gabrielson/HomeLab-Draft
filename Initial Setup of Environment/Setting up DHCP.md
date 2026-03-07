@@ -5,4 +5,4 @@
   Lease duration : 8 days - Using defualt option as no mobile devices exist on the domain
   Default gateway : Blank for now, will configure when router/firewall gets configured
   DHCP scope configured
-  ![Configured scope](../images/DHCP-scope.png
+  ![Configured scope](../images/DHCP-scope.png)
