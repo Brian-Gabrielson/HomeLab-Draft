@@ -17,3 +17,6 @@ Power: 1.2V
 
 ## Old RAM specs
 ![Old Specs](../images/Old-RAM.png)
+
+## New RAM specs
+![New Specs](../images/New-RAM.png)
