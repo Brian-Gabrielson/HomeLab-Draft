@@ -11,7 +11,7 @@
   VM120 Kali Linux (Kali) 
 
 ## Infrastructre 
-  The Proxmox virual environment is being hosted on a Dell Optiplex Elitedesk. The current demands of the 5 VMs running simutanuosly uses most of the resources on the Optiplex.
+  The Proxmox virual environment is being hosted on an HP Elitedesk 705. The current demands of the 5 VMs running simutanuosly uses most of the resources on the Optiplex.
 
 ## Security Tools
   SIEM, Logging....
