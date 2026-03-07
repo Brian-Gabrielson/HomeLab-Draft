@@ -14,3 +14,6 @@ Power: 1.2V
 
 ## Internals
 ![Elitedesk internals](../images/Internal.jpg)
+
+## Old RAM specs
+![Old Specs](../images/Old-RAM.jpg)
