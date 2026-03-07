@@ -4,4 +4,4 @@
   Windows Client successfully joins the domain
   ![Domain joined](images/Domain-joined.png)
   Computers joined to the domain
-  ![Computers on the domain](images/Computers-on-domain)
+  ![Computers on the domain](images/Computers-on-domain.png)
