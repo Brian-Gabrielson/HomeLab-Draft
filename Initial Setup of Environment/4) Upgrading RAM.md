@@ -8,4 +8,4 @@ Size: 16GB DDR4
 Speed: 2400 MHz ; Slower than whats in the host but more avalible RAM is more important at the moment.
 Power: 1.2V
 
-![Spare RAM](../images/Spare-RAM.png)
+![Spare RAM](../images/Spare-RAM.jpg)
