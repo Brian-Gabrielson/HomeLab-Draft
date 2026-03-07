@@ -20,3 +20,4 @@ Power: 1.2V
 
 ## New RAM specs
 ![New Specs](../images/New-RAM.png)
+# The speed for all sticks lowered to 1866 MT/s, which is lower than expected. The amount of availble RAM has now doubled, so I will revisit the speed at another time. 
