@@ -13,4 +13,4 @@ Power: 1.2V
 ![Existing RAM](../images/Existing-RAM.jpg)
 
 ## Internals
-![Elitedesk internals](../images/internal.jpg)
+![Elitedesk internals](../images/Internal.jpg)
