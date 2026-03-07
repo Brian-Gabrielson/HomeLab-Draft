@@ -8,3 +8,5 @@
   ![Configured scope](../images/DHCP-scope.png)
   Address Pool
   ![Address pool](../images/Address-pool.png)
+  Home router is acting as rouge DHCP server
+  ![Rouge DHCP](../images/Rouge-DHCP.png)
