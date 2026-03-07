@@ -8,5 +8,5 @@
   ![Configured scope](../images/DHCP-scope.png)
   Address Pool
   ![Address pool](../images/Address-pool.png)
-  Home router is acting as rouge DHCP server
+  Home router is acting as rouge DHCP server - The router is handing out IP addresses before DC01 can. I will need to add a firewall for network segmentation before finishing DHCP setup.
   ![Rouge DHCP](../images/Rouge-DHCP.png)
