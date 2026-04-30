@@ -35,3 +35,15 @@ Chose a new tool that will accept username and password, allowing me to use the 
 The sync action contacted Gitlab but the main branch is protected.
 
 <figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+Toggled on 'Allowed to force push'
+
+<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+Success! The action completed without any hangups.
+
+<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
+Content was successfully mirrored from Github to Gitlab
+
+<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
