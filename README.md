@@ -7,7 +7,7 @@ coverY: 0
 
 This is the current topology of my environment as of 4/30/26.
 
-<figure><img src=".gitbook/assets/Topology.drawio (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Topology.drawio (2).png" alt=""><figcaption></figcaption></figure>
 
 Future plans and goals for the environment are as follows:
 
