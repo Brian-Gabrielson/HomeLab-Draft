@@ -1,6 +1,7 @@
 # Table of contents
 
 * [HomeLab](README.md)
+* [Setup Github, Gitlab & Gitbook](setup-github-gitlab-and-gitbook.md)
 * [Initial Setup of Environment](initial-setup-of-environment/README.md)
   * [Joining devices to the domain](<Initial Setup of Environment/1) Joining the domain.md>)
   * [Setup of domain firewall](<Initial Setup of Environment/2) Firewall setup.md>)
