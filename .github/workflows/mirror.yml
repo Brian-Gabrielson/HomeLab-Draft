@@ -13,6 +13,6 @@ jobs:
         uses: cssnr/mirror-repository-action@v1
         with:
           # Use your GitLab URL here (keep the .git at the end)
-          url: https://gitlab.com/PacketSnuffer/homelab-draft.git
-          username: PacketSnuffer
+          url: https://gitlab.com/Brian-Gabrielson/homelab-draft.git
+          username: Brian-Gabrielson
           password: ${{ secrets.GITLAB_TOKEN }}
