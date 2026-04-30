@@ -1,6 +1,6 @@
 name: Mirror to GitLab
 
-on: [push, workflow_dispatch] # workflow_dispatch lets you run it manually too
+on: [push, workflow_dispatch]
 
 jobs:
   mirror_to_gitlab:
@@ -8,10 +8,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # This grabs the full history, which GitLab needs
-      - name: Mirroring action
-        uses: pixta-dev/repository-mirroring-action@v1
+          fetch-depth: 0
+      - name: Mirror Repository to GitLab
+        uses: cssnr/mirror-repository-action@v1
         with:
-          target_repo_url: https://gitlab.com/PacketSnuffer/homelab-draft.git
-          user_name: PacketSnuffer
+          # Use your GitLab URL here (keep the .git at the end)
+          url: https://gitlab.com/PacketSnuffer/homelab-draft.git
+          username: PacketSnuffer
           password: ${{ secrets.GITLAB_TOKEN }}
