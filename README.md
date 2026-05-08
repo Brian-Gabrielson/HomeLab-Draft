@@ -1,17 +1,29 @@
----
-description: The space I use to experiment with administration and security
-coverY: 0
----
+# HomeLab
 
-# Brian's Home lab
+## Overview
 
-This is the current topology of my environment as of 4/30/26.
+Discription goes here
 
-<figure><img src=".gitbook/assets/Topology.drawio (2).png" alt=""><figcaption></figcaption></figure>
+## Lab Enironment - Proxmox VE
 
-Future plans and goals for the environment are as follows:
+VM100 Windows Server 2022 (WindowserServerDC01) \[192.168.100.1] Hosts Active Directory, DNS, DHCP&#x20;
 
-* Build an small enterprise hybrid network
-* Populate identities on the network in AD and Entra
-* Simulate security threats using Kali Linux against a hardened perimeter
-* Practice network traffic analysis and firewall management
+VM105 Windows Server 2022 (WebServer) \[DHCP] Hosts IIS website VM110 Windows 11 (WindowsClient01)
+
+VM111 Windows 11 (WindowsClient02) VM120 Kali Linux (Kali)
+
+## Infrastructre
+
+The Proxmox virual environment is being hosted on an HP Elitedesk 705. The current demands of the 5 VMs running simutanuosly uses most of the resources on the Optiplex.
+
+## Security Tools
+
+SIEM, Logging....
+
+## Network Diagram
+
+Visuals
+
+## Documentation
+
+Deeper setup
