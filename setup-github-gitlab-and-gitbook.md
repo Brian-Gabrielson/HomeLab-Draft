@@ -26,7 +26,7 @@ Below are the token settings in Gitlab
 
 First run did not work, the specific tool used in the first attempt did not want to use tokens, only ssh.
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Chose a new tool that will accept username and password, allowing me to use the token i generated earlier.
 

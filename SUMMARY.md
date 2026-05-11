@@ -7,5 +7,6 @@
   * [Setup of domain firewall](initial-setup-of-environment/2-firewall-setup/README.md)
     * [Vlans](initial-setup-of-environment/2-firewall-setup/vlans.md)
   * [Setting up DHCP on DC for web server and windows clients](initial-setup-of-environment/2-setting-up-dhcp/README.md)
-    * [Initial fail setting up DHCP to early](initial-setup-of-environment/2-setting-up-dhcp/initial-fail-setting-up-dhcp-to-early.md)
+    * [DHCP Troubleshooting](initial-setup-of-environment/2-setting-up-dhcp/dhcp-troubleshooting.md)
   * [4) Upgrading RAM](<Initial Setup of Environment/4) Upgrading RAM.md>)
+  * [Subnet Troubleshooting](initial-setup-of-environment/subnet-troubleshooting.md)
