@@ -4,6 +4,6 @@ I intialay used the same subnet for my homelab that was used for by tthe home ro
 
 It turns out my DC was on the WAN side and kali was on the LAN side. The oposite of what i thoughtt i had configured, this explains every problem i was having witth this. The subnet has been set to a 10.0.0.x subnet and the bridges have been configured for the corect sides.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
